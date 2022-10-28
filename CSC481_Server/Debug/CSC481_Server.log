@@ -1,0 +1,7 @@
+﻿  Char.cpp
+  Main.cpp
+  MovingPlatform.cpp
+  Platform.cpp
+  Timeline.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'sfml-graphics-d.lib'
